@@ -1,0 +1,11 @@
+.header{
+    background-color: lightpink;
+    display: flex;
+    height : 40px;
+    z-index: 200;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    justify-content: center;
+
+}
